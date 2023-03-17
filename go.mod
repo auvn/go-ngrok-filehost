@@ -6,6 +6,7 @@ require (
 	go.uber.org/zap v1.23.0
 	golang.ngrok.com/ngrok v1.0.0
 	golang.ngrok.com/ngrok/log/zap v0.0.0-20230315185242-8acdd93580f4
+	golang.org/x/sync v0.1.0
 )
 
 require (
